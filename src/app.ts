@@ -22,7 +22,7 @@ app.use(cors());
 app.use("/api/v1/user", routes.userRouter);
 
 app.get("/", (req, res) => {
-  return res.send("Welcome to temari-net Page!");
+  return res.send("Welcome to school Hive Page!");
 });
 
 // Error handling
