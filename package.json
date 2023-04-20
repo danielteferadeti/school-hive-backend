@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "temari-net-backend",
+  "description": "school-hive-net-backend",
   "main": "dist/server.js",
   "engines": {
     "node": "16.x"
